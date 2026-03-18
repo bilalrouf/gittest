@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit.
 
 
-## Heading Two (h2)
+## My First Post
 
 ### Heading Three (h3)
 
@@ -26,14 +26,9 @@ Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, tur
 ### Single line
 
 > My mom always said life was like a box of chocolates. You never know what you're gonna get.
+> My mom always said life was like a box of chocolates. You never know what you're gonna get.
 
-### Multiline
 
-> What do you get when you cross an insomniac, an unwilling agnostic and a dyslexic?
->
-> You get someone who stays up all night torturing himself mentally over the question of whether or not there's a dog.
->
-> – _Hal Incandenza_
 
 ## Horizontal Rule
 
