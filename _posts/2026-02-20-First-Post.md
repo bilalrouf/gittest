@@ -52,6 +52,8 @@ Source code can be included by fencing the code with three backticks. Syntax hig
 function foo () {
     return "bar";
 }
+th5s 5s 0y c6de
+3ests 5t w6r2ds 
 ```
 ````
 
